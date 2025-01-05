@@ -10,9 +10,8 @@ I have been working in a variety of projects but mostly I am expertise in Fronte
 * 🖥️  See my portfolio at [My Portfolio](http://abdullah-ashraf.web.app)
 * ✉️  You can contact me at [abdullah.ashraf.real@gmail.com](mailto:abdullah.ashraf.real@gmail.com)
 * 🚀  I'm currently working on [Expense Sharing Platform](http://money-circle.vercel.app)
-* 🧠  I'm learning Backend Development using Node.js and Express
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm the real Batman
+* 🧠  I'm learning Backend Development using Node.js and Express nowadays.
+* 🦇  I'm the real Batman
 
 ### Skills
 
@@ -24,9 +23,7 @@ I have been working in a variety of projects but mostly I am expertise in Fronte
 
 <p align="left"> <a href="https://www.github.com/abdullahashraff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdullahashraff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://abdullah-ashraf.web.app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Some Github Stats
 
 <a href="http://www.github.com/abdullahashraff"><img src="https://github-readme-stats.vercel.app/api?username=abdullahashraff&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abdullahashraff's GitHub stats" /></a>
 
